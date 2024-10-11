@@ -4,6 +4,7 @@ This project performs a comprehensive analysis of app reviews from the Apple App
 
 ## Live Demo
 https://huggingface.co/spaces/jacobwu/app-review-analysis
+![app-analysis-demo](images/app-analysis-demo.jpg)
 
 
 ## Features
